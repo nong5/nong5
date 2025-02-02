@@ -15,9 +15,8 @@ My journey in computer science has led me to develop a strong passion for cybers
 ### Scripting & Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Logging_Module-FFDD44?&style=for-the-badge&logo=Python&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Hashlib-4D4D4D?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Signal_Handling-0078D4?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-0078D4?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
+    
 </div>
 
 ### Compliance & Documentation
