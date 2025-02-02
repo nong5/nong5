@@ -9,7 +9,7 @@ My journey in computer science has led me to develop a strong passion for cybers
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Port Scanner and Vulnerability Analyzer | <a href="https://google.com">Detection Lab</a>|
+| Port Scanner and Vulnerability Analyzer | <a href="https://github.com/nong5/Port-Scanner-and-Vulnerability-Analyzer">Port Scanner</a>|
 
 ## Tools
 ### Scripting & Automation
