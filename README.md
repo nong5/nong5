@@ -16,7 +16,8 @@ My journey in computer science has led me to develop a strong passion for cybers
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-0078D4?&style=for-the-badge&logo=WindowsTerminal&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Shodan_API-FF5733?&style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JSON_Parsing-4D4D4D?&style=for-the-badge&logo=JSON&logoColor=white" /> </div>
 </div>
 
 ### Compliance & Documentation
